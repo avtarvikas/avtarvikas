@@ -4,7 +4,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=avtarvikas alt=avtarvikas /> </p>
 
-<p align='left'>A results-driven frontend developer producing robust code to create and optimize interactive user-friendly, and feature-rich websites. Leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions, Technically proficient and analytical problem solver with calm and focused demeanour providing technical knowledge and expertise while building new websites from start to
+<p align='left'>A results-driven frontend developer with more then 8 years of experience producing robust code to create and optimize interactive user-friendly, and feature-rich websites. Leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions, Technically proficient and analytical problem solver with calm and focused demeanour providing technical knowledge and expertise while building new websites from start to
 finish.</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avtarvikas&theme=github_dark)
